@@ -10,14 +10,14 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "vm",
+      "defaultValue": "BCO-",
       "metadata": {
         "description": "The name of the VM"
       }
     },
     "adminUsername": {
       "type": "string",
-      "defaultValue": "cloudguy",
+      "defaultValue": "azureadmin",
       "metadata": {
         "description": "The name of the administrator of the new VM. Exclusion list: 'admin','administrator'"
       }
